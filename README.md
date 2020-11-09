@@ -2,7 +2,7 @@
 Biblioteca para integração da api Linx
 
 ### INSTALAÇAO
-
+composer require eudovic/linx:dev-master
 ### COMO USAR
 É necessário estar em posse do usuário e senha da linx, alem do mais ter conhecimento do seu dominio configurado na linx.
 
