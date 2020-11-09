@@ -9,7 +9,7 @@ class ApiRequests{
 	
 	public function __construct($headers,$domain){
  		$this->setHeader($headers);
- 		$this->baseUrl="https://$domain.layer.core.dcg.com.br/v1/Queue/API.svc/web/";
+ 		$this->baseUrl="https://$domain.layer.core.dcg.com.br";
 
 	}
 
